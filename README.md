@@ -118,7 +118,7 @@ Or click here directly: ☕ <a href="https://buymeacoffee.com/stargazex" target=
 🌍 Global expansion — adapting the tool for other regions
 
 <div align="center">
-Made with 🏙️ by Guan Min (stargazex) in Malaysia 🇲🇾
+Made with 🏙️ by Koo Guan Min (stargazex) in Malaysia 🇲🇾
 
 ⭐ Star this repo if you find it useful!
 
